@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\CoreDemo\\CoreDemo.csproj": {}
+    "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreDemo\\CoreDemo.csproj": {}
   },
   "projects": {
-    "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\BussinessLayer\\BussinessLayer.csproj": {
+    "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\BussinessLayer\\BussinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\BussinessLayer\\BussinessLayer.csproj",
+        "projectUniqueName": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\BussinessLayer\\BussinessLayer.csproj",
         "projectName": "BussinessLayer",
-        "projectPath": "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\BussinessLayer\\BussinessLayer.csproj",
+        "projectPath": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\BussinessLayer\\BussinessLayer.csproj",
         "packagesPath": "C:\\Users\\aysen\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\BussinessLayer\\obj\\",
+        "outputPath": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\BussinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj"
+              "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
+              "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\CoreDemo\\CoreDemo.csproj": {
+    "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreDemo\\CoreDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+        "projectUniqueName": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
         "projectName": "CoreDemo",
-        "projectPath": "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+        "projectPath": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
         "packagesPath": "C:\\Users\\aysen\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\CoreDemo\\obj\\",
+        "outputPath": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -101,14 +101,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\BussinessLayer\\BussinessLayer.csproj": {
-                "projectPath": "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\BussinessLayer\\BussinessLayer.csproj"
+              "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\BussinessLayer\\BussinessLayer.csproj": {
+                "projectPath": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\BussinessLayer\\BussinessLayer.csproj"
               },
-              "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj"
+              "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
+              "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -167,14 +167,14 @@
         }
       }
     },
-    "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\aysen\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\DataAccessLayer\\obj\\",
+        "outputPath": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -196,8 +196,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
+              "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -253,14 +253,14 @@
         }
       }
     },
-    "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
+    "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+        "projectPath": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
         "packagesPath": "C:\\Users\\aysen\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\EntityLayer\\obj\\",
+        "outputPath": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

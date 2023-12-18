@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K3s4vjaYIOSmGThRSuP3yylpAPA3CTCoGE7qgpv0DYm7Sqf+SlUg/hWl4Zm25ZtD0b/3+1EF8KOHJAitlpjAAg==",
+  "dgSpecHash": "19sm83+BFzBUQXBq88mVCt1QclNepDn/HvoTUNbi7n+OxOXTGZdDOCaBrn1auWHe72upEc7p4uKmY2H6POTuBw==",
   "success": true,
-  "projectFilePath": "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+  "projectFilePath": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aysen\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\aysen\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

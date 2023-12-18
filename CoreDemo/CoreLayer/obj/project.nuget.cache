@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zjefS3/56ZHNAKKcua0Oj1ensUnigigi8sd9ZWpwjMhx6sVKwkk7HqViFvEVAvFTrHGYmfemwT9iL8c8/7wcug==",
+  "dgSpecHash": "w4+4UVlWw1YPS4c1OTvRj/PF2cuQ9ywicGJpBi9VYyXN+NLxuxRzhHk7MqsyMJixMYCjAXA0Rslk2STYFvWZkg==",
   "success": true,
-  "projectFilePath": "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+  "projectFilePath": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

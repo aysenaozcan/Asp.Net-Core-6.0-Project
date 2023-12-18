@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q60pHlmQxQQ72/BXTN7+qrl7G7EYTBOgWMmLVANAi+SGI7ezD+MOb7G7lP235WjIlDxhgxma3/5IMTxrRrI65A==",
+  "dgSpecHash": "2jyEHy3Z2n/QvCur7PBKso50XKD1Tky0X+mwmU4XnPwv+P5cCg2d97qW+TPAvmB8mHh1ZETnoY5KuhcCYAmQ/g==",
   "success": true,
-  "projectFilePath": "D:\\repos\\Asp.Net Core 5.0 Project\\CoreDemo\\BussinessLayer\\BussinessLayer.csproj",
+  "projectFilePath": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\BussinessLayer\\BussinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aysen\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\aysen\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
