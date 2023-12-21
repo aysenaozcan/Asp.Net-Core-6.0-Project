@@ -91,3 +91,14 @@ D:\repos\Asp.Net Core 5.0 Project\CoreDemo\CoreDemo\bin\Debug\net6.0\System.Code
 D:\repos\Asp.Net Core 5.0 Project\CoreDemo\CoreDemo\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 D:\repos\Asp.Net Core 5.0 Project\CoreDemo\CoreDemo\bin\Debug\net6.0\System.Text.Json.dll
 D:\repos\Asp.Net Core 5.0 Project\CoreDemo\CoreDemo\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.csproj.AssemblyReference.cache
+D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.AssemblyInfoInputs.cache
+D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.AssemblyInfo.cs
+D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.csproj.CoreCompileInputs.cache
+D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.RazorAssemblyInfo.cache
+D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.RazorAssemblyInfo.cs
+D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.dll
+D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\CoreDemo\obj\Debug\net6.0\refint\CoreDemo.dll
+D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.pdb
