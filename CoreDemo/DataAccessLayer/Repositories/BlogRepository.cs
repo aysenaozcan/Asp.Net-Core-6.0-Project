@@ -11,37 +11,68 @@ namespace DataAccessLayer.Repositories
 {
     public class BlogRepository : IBlogDal
     {
-        public void AddBlog(Blog blog)
-        {
-            using var c = new Context();
-            c.Add(blog);
-            c.SaveChanges();
-        }
 
-        public void DeleteBlog(Blog blog)
+
+
+        //public void AddBlog(Blog blog)
+        //{
+        //    using var c = new Context();
+        //    c.Add(blog);
+        //    c.SaveChanges();
+        //}
+
+        //public void DeleteBlog(Blog blog)
+        //{
+        //    using var c = new Context();
+        //    c.Remove(blog);
+        //    c.SaveChanges();
+        //}
+
+        //public Blog GetById(int id)
+        //{
+        //    using var c = new Context();
+        //    return c.Blogs.Find(id);
+        //}
+
+        //public List<Blog> ListAllBlog()
+        //{
+        //    using var c = new Context();
+        //    return c.Blogs.ToList();
+        //}
+
+        //public void UpdateBlog(Blog blog)
+        //{
+        //    using var c = new Context();
+        //    c.Update(blog);
+        //    c.SaveChanges();
+        //}
+
+        Context c = new Context();
+        public void Delete(Blog blog)
         {
-            using var c = new Context();
             c.Remove(blog);
             c.SaveChanges();
         }
 
         public Blog GetById(int id)
         {
-            using var c = new Context();
             return c.Blogs.Find(id);
         }
 
-        public List<Blog> ListAllBlog()
+        public List<Blog> GetListAll()
         {
-            using var c = new Context();
             return c.Blogs.ToList();
         }
 
-        public void UpdateBlog(Blog blog)
+        public void Insert(Blog blog)
         {
-            using var c = new Context();
-            c.Update(blog);
+            c.Add(blog);
             c.SaveChanges();
+        }
+
+        public void Update(Blog blog)
+        {
+            throw new NotImplementedException();
         }
     }
 }
