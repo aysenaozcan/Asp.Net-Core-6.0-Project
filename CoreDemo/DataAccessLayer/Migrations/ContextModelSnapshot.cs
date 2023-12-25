@@ -70,9 +70,8 @@ namespace DataAccessLayer.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("BlogCreateDate")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<DateTime>("BlogCreateDate")
+                        .HasColumnType("datetime2");
 
                     b.Property<string>("BlogImage")
                         .IsRequired()
