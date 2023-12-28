@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "LOANrrZpMQerspT0fnk1ZxGQd/wExqensjczhaXV4jd8Hef1LxUYiPqPbiY2a1nE+yiMpc0Wy61UtAfLjLoiag==",
+  "dgSpecHash": "5ODErqeDXU8A91OYgXdf7Q/56fR/1VUPoal1iLIlnDPpr+iEqBcN3OhKCte6fb4BML62DpwvDDvsc24diz74kg==",
   "success": true,
   "projectFilePath": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aysen\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\aysen\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\aysen\\.nuget\\packages\\bootstrap\\5.3.2\\bootstrap.5.3.2.nupkg.sha512",
+    "C:\\Users\\aysen\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\aysen\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\aysen\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\aysen\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\aysen\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\aysen\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",
