@@ -15,20 +15,20 @@ D:\repos\Asp.Net Core 5.0 Project\CoreDemo\DataAccessLayer\obj\Debug\net6.0\ref\
 D:\repos\Asp.Net Core 5.0 Project\CoreDemo\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
 D:\repos\Asp.Net Core 5.0 Project\CoreDemo\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
 D:\repos\Asp.Net Core 5.0 Project\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
-D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
-D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
-D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
-D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
-D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
-D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
-D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
-D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
 D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
 D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
 D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
 D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
 D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
 D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
 D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
 D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
 D:\repos\Asp.Net-Core-6.0-Project\CoreDemo\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
