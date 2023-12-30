@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BussinessLayer.Abstract
 {
-    public interface ICategorySevice
+    public interface ICategoryService
     {
         void CategoryAdd(Category category);
         void CategoryDelete(Category category);

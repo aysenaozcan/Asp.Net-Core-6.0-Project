@@ -9,7 +9,7 @@ namespace CoreDemo.ViewComponents.Blog
 		BlogManager bm=new BlogManager(new EfBlogRepository());
 		public IViewComponentResult Invoke()
 		{
-			var values = bm.GetBlogListByWriter(1);
+			var values = bm.GetBlogListByWriter(13);   //daha sonra id yazılacak
 			return View(values);
 		}
 	}

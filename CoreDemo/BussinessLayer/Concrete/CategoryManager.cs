@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace BussinessLayer.Concrete
 {
-    public class CategoryManager : ICategorySevice
+    public class CategoryManager : ICategoryService
     {
         ICategoryDal _categoryDal;
        

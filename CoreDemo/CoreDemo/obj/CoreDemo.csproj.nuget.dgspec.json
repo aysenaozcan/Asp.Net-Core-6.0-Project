@@ -157,6 +157,18 @@
               "target": "Package",
               "version": "[6.0.16, )"
             },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Sinks.MSSqlServer": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
             "bootstrap": {
               "target": "Package",
               "version": "[5.3.2, )"

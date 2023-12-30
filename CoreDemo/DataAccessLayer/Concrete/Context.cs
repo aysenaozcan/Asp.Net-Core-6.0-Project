@@ -13,7 +13,8 @@ namespace DataAccessLayer.Concrete
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("server=LAPTOP-LMRC99NP; database=CoreBlogDb; integrated security=true; Encrypt=False");
-        }
+         
+		}
 
         public DbSet<About> Abouts { get; set; } 
         public DbSet<Blog> Blogs { get; set; } 
@@ -21,5 +22,6 @@ namespace DataAccessLayer.Concrete
         public DbSet<Comment> Comments { get; set; } 
         public DbSet<Contact> Contacts { get; set; } 
         public DbSet<Writer> Writers { get; set; } 
+        public DbSet<NewsLetter> NewsLetters { get; set; } 
     }
 }

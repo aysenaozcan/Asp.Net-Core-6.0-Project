@@ -1,6 +1,9 @@
 ﻿using CoreDemo.Models;
 using Microsoft.AspNetCore.Mvc;
+using Serilog;
+using Serilog.Core;
 using System.Diagnostics;
+using System.Diagnostics.Metrics;
 
 namespace CoreDemo.Controllers
 {
@@ -8,14 +11,17 @@ namespace CoreDemo.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+
+		public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
         }
 
         public IActionResult Index()
         {
-            return View();
+            _logger.LogInformation("Bu ilk logum"); ;
+            
+			return View();
         }
 
         public IActionResult Privacy()
