@@ -48,4 +48,8 @@
     <Folder Include="wwwroot\lib\jquery\dist\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="Views\NewsLetter\SubscribeMail.cshtml" />
+  </ItemGroup>
+
 </Project>
