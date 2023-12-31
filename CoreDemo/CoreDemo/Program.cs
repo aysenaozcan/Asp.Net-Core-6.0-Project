@@ -20,7 +20,7 @@ if (!app.Environment.IsDevelopment())
 
 
 
-
+app.UseStatusCodePagesWithReExecute("/ErrorPage/Error1", "?code={0}");
 
 
 app.UseHttpsRedirection();
