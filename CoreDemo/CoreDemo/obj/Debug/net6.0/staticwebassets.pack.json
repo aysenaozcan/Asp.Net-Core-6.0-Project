@@ -181,6 +181,10 @@
       "PackagePath": "staticwebassets\\CoreDemo.bundle.scp.css"
     },
     {
+      "Id": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreDemo\\wwwroot\\Core404Page-main.zip",
+      "PackagePath": "staticwebassets\\Core404Page-main.zip"
+    },
+    {
       "Id": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\about.html",
       "PackagePath": "staticwebassets\\CoreBlogTema\\web\\about.html"
     },
@@ -707,6 +711,50 @@
     {
       "Id": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\weberror\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\css\\style.css",
+      "PackagePath": "staticwebassets\\weberror\\css\\style.css"
+    },
+    {
+      "Id": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\weberror\\images\\banner1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\index.html",
+      "PackagePath": "staticwebassets\\weberror\\index.html"
+    },
+    {
+      "Id": "D:\\repos\\Asp.Net-Core-6.0-Project\\CoreDemo\\CoreDemo\\wwwroot\\weberror\\w3layouts-license.txt",
+      "PackagePath": "staticwebassets\\weberror\\w3layouts-license.txt"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CoreDemo.Microsoft.AspNetCore.StaticWebAssets.props",
