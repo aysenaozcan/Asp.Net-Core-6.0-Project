@@ -1,3 +1,5 @@
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc.Authorization;
 using Serilog;
 using Serilog.Core;
 
@@ -5,8 +7,15 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddSession();
 
-
+builder.Services.AddMvc(config =>
+{
+	var policy = new AuthorizationPolicyBuilder()
+					.RequireAuthenticatedUser()
+					.Build();
+	config.Filters.Add(new AuthorizeFilter(policy));
+});
 
 var app = builder.Build();
 
@@ -25,6 +34,8 @@ app.UseStatusCodePagesWithReExecute("/ErrorPage/Error1", "?code={0}");
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
+
+app.UseSession();
 
 app.UseRouting();
 
