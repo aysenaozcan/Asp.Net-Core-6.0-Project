@@ -22,18 +22,18 @@ builder.Services.AddMvc();
 builder.Services.AddAuthentication(
     CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(x=>
     {
-        x.LoginPath = "Login/Index";
+        x.LoginPath = "/Login/Index";
     }
 	);
 
-builder.Services.ConfigureApplicationCookie(options =>
-{
-    options.Cookie.HttpOnly=true;
-    options.ExpireTimeSpan = TimeSpan.FromMinutes(5);
+//builder.Services.ConfigureApplicationCookie(options =>
+//{
+//    options.Cookie.HttpOnly=true;
+//    options.ExpireTimeSpan = TimeSpan.FromMinutes(5);
 
-    options.LoginPath = "Login/Index";
-    options.SlidingExpiration = true;
-});
+//    options.LoginPath = "/Login/Index";
+//    options.SlidingExpiration = true;
+//});
 
 
 var app = builder.Build();
@@ -48,9 +48,7 @@ if (!app.Environment.IsDevelopment())
 
 app.UseStatusCodePagesWithReExecute("/ErrorPage/Error1", "?code={0}");
 
-
-app.UseHttpsRedirection();
-app.UseStaticFiles();
+app.UseAuthentication();
 
 app.UseSession();
 
