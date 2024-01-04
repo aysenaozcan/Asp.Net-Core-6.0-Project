@@ -9,7 +9,7 @@ namespace CoreDemo.ViewComponents.BlogLastThreePosts
 		BlogManager bm = new BlogManager(new EfBlogRepository());
 		public IViewComponentResult Invoke()
 		{
-			var values = bm.GetListThreeBlog(); //daha sonra id yazılacak
+			var values = bm.GetLastThreeBlog(); //daha sonra id yazılacak
 			return View(values);
 		}
 	}

@@ -54,7 +54,7 @@ namespace BussinessLayer.Concrete
 		{
 			return _blogDal.GetListAll();
 		}
-		public List<Blog> GetListThreeBlog()
+		public List<Blog> GetLastThreeBlog()
 		{
 			return _blogDal.GetListAll().Take(3).ToList();
 		}
